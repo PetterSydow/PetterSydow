@@ -26,20 +26,12 @@ Med mindre annet er avtalt, foretrekker jeg henvendelser per e-post her fremfor 
 - TK2100 Information Risk and Security (Pass)
 
 #### 3. semester
-- <a
-  href="https://github.com/PetterSydow/CYB2100-Cyber-Defense-Exam-2025"
->
-CYB2100 Cyber Defense
-</a> (Karakter: A)
+- [CYB2100 Cyber Defense](https://github.com/PetterSydow/CYB2100-Cyber-Defense-Exam-2025) (Karakter: A)
 - ETH2100 Ethical Hacking (Karakter: C)
 - SKY2100 Cloud Security (Karakter: D)
 
 #### 4. semester
-- <a
-  href="https://github.com/PetterSydow/PG3401-Programming-in-C-for-Linux"
->
-PG3401 Programming in C for Linux
-</a> (Karakter: A)
+- [PG3401 Programming in C for Linux](https://github.com/PetterSydow/PG3401-Programming-in-C-for-Linux) (Karakter: A)
 - PGR107 Python Programming (Karakter: A)
 - PGR213 Programming and Quantum Computing (Karakter: C)
 
