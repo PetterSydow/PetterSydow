@@ -33,7 +33,7 @@ Med mindre annet er avtalt, foretrekker jeg henvendelser per e-post her fremfor 
 #### 4. semester
 - [PG3401 Programming in C for Linux](https://github.com/PetterSydow/PG3401-Programming-in-C-for-Linux) (Karakter: A)
 - [PGR107 Python Programming](https://github.com/PetterSydow/PGR107-Python-Programming) (Karakter: A)
-- PGR213 Programming and Quantum Computing (Karakter: C)
+- [PGR213 Programming and Quantum Computing](https://github.com/PetterSydow/PGR213-Programming-and-Quantum-Computing) (Karakter: C)
 
 #### 5. semester
 - IOS3100 IoT/OT sikkerhet - Pågående
